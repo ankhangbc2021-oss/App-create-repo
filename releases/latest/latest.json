@@ -1,7 +1,7 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "",
+                                             "signature":  "RWSStxFapiPp3rpA6hhXOCZfrSASAgoMJbgC3jy4681nd9SW5kZQ0Eo0",
                                              "url":  "https://github.com/ankhangbc2021-oss/App-create-repo/releases/download/v1.1.0/Bulk%20Repository%20Creator.exe"
                                          }
                   },
