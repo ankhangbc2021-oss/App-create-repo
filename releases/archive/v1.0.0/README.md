@@ -1,6 +1,6 @@
 # Bulk Repository Creator
 **Version:** v1.0.0
-**Build Date:** 2026-06-28
+**Build Date:** 2026-07-05
 
 ## Installation Instructions
 1. Download the installer for your platform.

@@ -1,5 +1,5 @@
 # Bulk Repository Creator v1.0.0
-**Release Date:** 2026-06-28
+**Release Date:** 2026-07-05
 
 ## Improvements & Bug Fixes
 * **Localization:** Comprehensive UI audit and Vietnamese translation support across all components.

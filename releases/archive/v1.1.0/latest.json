@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "",
+                                             "url":  "https://github.com/ankhangbc2021-oss/App_create_repositories/releases/latest/download/Bulk.Repository.Creator_1.1.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-07-05T08:07:41Z",
+    "version":  "1.1.0",
+    "notes":  "Fix 500 error on login caused by logger EPIPE."
+}
