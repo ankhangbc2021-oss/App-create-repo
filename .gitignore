@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Build artifacts (binaries belong on GitHub Releases, not in git)
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.deb
+*.rpm
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
