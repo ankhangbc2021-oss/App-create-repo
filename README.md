@@ -32,7 +32,7 @@ Bulk Repository Creator is a cross-platform desktop app built with **Tauri** and
 | Field         | Value          |
 | ------------- | -------------- |
 | **Version**   | `1.1.0`        |
-| **Published** | 2026-07-05     |
+| **Published** | 2026-07-18     |
 | **Platform**  | Windows x86_64 |
 
 
