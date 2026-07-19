@@ -4,7 +4,7 @@
 
 **Upload multiple folders → Create GitHub repositories → Push code automatically**
 
-[![CI](https://github.com/ankhangbc2021-oss/App_create_repositories/actions/workflows/ci.yml/badge.svg)](https://github.com/ankhangbc2021-oss/App_create_repositories/actions/workflows/ci.yml)
+[![CI](https://github.com/ankhangbc2021-oss/App-create-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/ankhangbc2021-oss/App_create_repositories/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-20+-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://typescriptlang.org/)
@@ -146,8 +146,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ankhangbc2021-oss/App_create_repositories.git
-cd App_create_repositories
+git clone https://github.com/ankhangbc2021-oss/App-create-repo.git
+cd App-create-repo
 ```
 
 ### 2. Run Setup Script
@@ -434,7 +434,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Made with ❤️ for the GitHub community by Tang Manh Khang**
 
-[Report Bug](https://github.com/ankhangbc2021-oss/App_create_repositories/issues) · [Request Feature](https://github.com/ankhangbc2021-oss/App_create_repositories/issues) · [Discussions](https://github.com/ankhangbc2021-oss/App_create_repositories/discussions)
+[Report Bug](https://github.com/ankhangbc2021-oss/App-create-repo/issues) · [Request Feature](https://github.com/ankhangbc2021-oss/App-create-repo/issues) · [Discussions](https://github.com/ankhangbc2021-oss/App-create-repo/discussions)
 
-</div>
-#   A p p _ c r e a t e _ r e p o s i t o r i e s    
+</div>   
