@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "v1.1.0",
   "notes": "Release v1.1.0",
-  "pub_date": "2026-07-19T02:12:53.102Z",
+  "pub_date": "2026-07-19T07:03:08.037Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3N4RmFwaVBwM3JoRStWait6Uk9PZmc4UERrOFVMZFpscEJ0TXZJUGh2YlZheGxuUFJUbzBpaC91bWd4TU5xT3FjZ3pzcE5LclIxd2tadTU5aXB5SFFJZEUwMnhjeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDI3MTcxCWZpbGU6QnVsayBSZXBvc2l0b3J5IENyZWF0b3JfMS4xLjBfeDY0LXNldHVwLmV4ZQp3aXFLYkFuaWQwdUVXTFA0YUpFMEFQcUVwN3l6NWRBdUprR0pJdVh0eGI5enp2c0JJMTJrVXhXei9ycXR3WEhZVytFaWVCSW82bHplMU11cDhzMllDUT09Cg==",
-      "url": "https://github.com/ankhangbc2021-oss/App-create-repo/releases/archive/v1.1.0/Bulk%20Repository%20Creator_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3N4RmFwaVBwM3NBK002eG1xRkhEWE12RThkVHN5OUJnVHVGakkzSHZrSGtYM1hISi9QbnEwVCtvaEdxcno2NjN4eUZiR2p4aDhBMjcvMG1jMDZ4d0drMnFTNHBKb2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ0NTg3CWZpbGU6QnVsayBSZXBvc2l0b3J5IENyZWF0b3JfMS4xLjBfeDY0LXNldHVwLm5zaXMuemlwCmY0L1ZpeGxDZVZjNGZSdkhwbFhmSng2cHA0eUZ5OUIxMndhekJFZnBXWmZmRWVKUk9mbWU2WnlCQ0VMQmpXZ0pSWmJpdlVZTm5DZjZscHV4emFFaUNRPT0K",
+      "url": "https://github.com/ankhangbc2021-oss/App-create-repo/releases/download/v1.1.0/Bulk%20Repository%20Creator_1.1.0_x64-setup.nsis.zip"
     }
   }
 }
